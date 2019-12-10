@@ -1,4 +1,4 @@
-package com.gonghanxun.mapper;
+package com.gonghanxun.dao;
 
 public interface UserMapper {
 
