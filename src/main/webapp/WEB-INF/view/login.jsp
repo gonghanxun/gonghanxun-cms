@@ -5,9 +5,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="/resource/bootstrap-4.4.1/css/bootstrap.css" rel="stylesheet">
+<script type="text/javascript" src="/resource/bootstrap-4.4.1/js/bootstrap.js"></script>
 <title>Insert title here</title>
 </head>
 <body>
-	
+	这是一个牛逼页
 </body>
 </html>
